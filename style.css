@@ -1,0 +1,68 @@
+body { background-color: black;}
+
+.wel
+    {
+    color: black
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    text-align: center;
+    font-family: Impact;
+    font-size: 50px;
+    transition: 1s;
+    }
+
+.wel:hover
+    {
+    color: darkred;
+    }
+
+.webs
+    {
+    margin-top: 20px;
+    margin-right: 0;
+    margin-left: 250px;
+    margin-bottom: 0;
+    }
+
+.massage
+    {
+    color: red;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    }
+
+.mass
+    {
+    color: red;
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    }
+
+.site
+    {
+    color: orange;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+    margin-left: 0;
+    transition: 0.50s;
+    }
+.site:hover
+    {
+    color: red;
+    }
+
+.mass2
+    {
+    color: red;
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+    }
